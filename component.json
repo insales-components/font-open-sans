@@ -1,0 +1,13 @@
+{
+  "name": "font-open-sans",
+  "version": "1.0.0",
+  "description": "Шрифт Open Sans",
+  "author": "LiquidHub.ru",
+  "type": "fonts",
+  "homepage": "https://github.com/insales-components/font-open-sans",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
